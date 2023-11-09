@@ -1,0 +1,49 @@
+body {
+    background: url(https://img.freepik.com/free-photo/flat-lay-clean-office-desk_23-2148219267.jpg?w=1060&t=st=1699067760~exp=1699068360~hmac=e9ccf44295546dbfa9087822eccb2717262d2825aa96a3fbc30273da487eba39);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    margin-left: 55%;
+    margin-top: 10%;
+    background-color: #ffff;
+    box-shadow: 3px 3px 10px;
+}
+span {
+    padding-left: 10px;
+}
+#inp{
+    width: 270px;
+    padding: 8px;
+    outline: none;
+    border: 1.5px solid black;
+    border-radius: 3px;
+    font-size: 15px;
+}
+button{
+    width: 60px;
+    height: 34.5px;
+    background-color: rgb(04, 29, 29);
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.text ul{
+    position: relative;
+    background: rgb(190, 249, 249);
+    color: rgb(21, 20, 20);
+    font-size: 15px;
+    padding: 8px;
+    font-weight: 00;
+    text-align: left;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
